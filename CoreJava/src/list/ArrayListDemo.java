@@ -13,6 +13,7 @@ public class ArrayListDemo {
 	obj.add("Pankaj");
 	obj.add("Kumar");
 	obj.add("Gupta");
+	obj.add("netcracker");
 	
 	System.out.println(obj);
 	
